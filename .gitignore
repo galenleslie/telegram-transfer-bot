@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# 🔒 Service Account Key (DO NOT COMMIT)
+vision-api-bot.json
